@@ -1,6 +1,6 @@
 import telebot
 from state import *
-from replies import *
+from replies import years_markup, countries_markup, direction_markup
 from pyqiwip2p import QiwiP2P
 # from pyqiwip2p.p2p_types import QiwiCustomer, QiwiDatetime, PaymentMeth
 
