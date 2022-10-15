@@ -1,5 +1,4 @@
 import telebot
-from telebot import types
 from state import *
 from replies import *
 from pyqiwip2p import QiwiP2P
